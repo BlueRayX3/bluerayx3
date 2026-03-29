@@ -1,11 +1,11 @@
-# Hi, I'm Kaan! 👋
+# Hi, I'm Kaan! 
 
 I'm a 3rd-year Computer Science student at Dokuz Eylül University. I am passionate about crafting user-friendly interfaces, building scalable systems, and working with modern web architectures. Currently, I mainly develop projects within the **Next.js** ecosystem, while also deepening my understanding of core software principles through project-based learning in **C# and OOP** (such as building a console game from scratch).
 
 ## 🛠️ Tech Stack
 
 * **Frontend:** Next.js, React, TypeScript, Tailwind CSS, Shadcn UI
-* **Backend & Database:** Node.js, MongoDB
+* **Backend & Database:** Node.js, MongoDB, .NET
 * **Other:** C#, Object-Oriented Programming (OOP)
 
 ## 🚀 Featured Projects
